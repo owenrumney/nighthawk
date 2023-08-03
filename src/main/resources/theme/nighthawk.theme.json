@@ -1,0 +1,45 @@
+{
+  "author": "Owen Rumney",
+  "dark": true,
+  "name": "Nighthawk",
+  "editorScheme": "/theme/Nighthawk.xml",
+  "ui": {
+    "*": {
+      "background": "#191f2bff",
+      "foreground": "#b0bec5ff",
+      "highlight": "#425b67ff",
+      "selectionBackground": "#546e7aff",
+      "selectionForeground": "#ffffffff",
+      "button": "#313B45ff",
+      "secondaryBackground": "#32424aff",
+      "disabled": "#415967ff",
+      "contrast": "#1e272cff",
+      "tableSelected": "#314549ff",
+      "secondBorder": "#2a373eff",
+      "treeSelection": "#00485c",
+      "notifications": "#323232ff",
+      "accent": "#009688ff",
+      "excluded": "#2e3c43ff"
+    },
+    "DefaultTabs": {
+      "background": "#191f2b",
+      "borderColor": "#002b3f"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "#191f2b"
+    },
+    "Popup": {
+      "Header.activeBackground": "#191f2b"
+    },
+    "TabbedPane": {
+      "hoverColor": "#191f2b"
+    },
+    "Button": {
+      "focus": "#191f2b"
+    },
+    "ToolWindow": {
+      "Header.background": "#313B45",
+      "Header.inactiveBackground": "#313B45"
+    }
+  }
+}
